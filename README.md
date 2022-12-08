@@ -20,7 +20,6 @@
 
 ### Static GET  Routing
 > `$router = new Router`;
-<br />
 > `$router->get('/','/views/index') ; `
 <br />
 ### Dynamic GET Routing
