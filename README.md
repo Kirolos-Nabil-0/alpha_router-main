@@ -17,13 +17,13 @@
 ---
 ## exampels:
 <br />
-### Static GET  Routing
+## Static GET  Routing
 <br />
 > `$router = new Router`;
 <br />
 > `$router->get('/','/views/index') ; `
 <br />
-### Dynamic GET Routing
+## Dynamic GET Routing
 > `$router = new Router`;
 <br />
 > `$router->get('/User/$name/','/views/mens') ; `
