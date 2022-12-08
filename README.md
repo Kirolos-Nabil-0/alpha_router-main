@@ -16,7 +16,6 @@
 * any()-->for any kind of requests
 ---
 ## exampels:
- `require_once __DIR__.'/a_router.php';`
 <br />
 ### Static GET  Routing
 <br />
