@@ -16,17 +16,17 @@
 * any()-->for any kind of requests
 ---
 ## exampels:
->`require_once __DIR__.'/a_router.php';`
+> `require_once __DIR__.'/a_router.php';`
 
 ### Static GET  Routing
 <br />
->`$router = new Router`;
+> `$router = new Router`;
 <br />
->`$router->get('/','/views/index') ; `
+> `$router->get('/','/views/index') ; `
 <br />
 ### Dynamic GET Routing
->`$router = new Router`;
+> `$router = new Router`;
 <br />
->`$router->get('/User/$name/','/views/mens') ; `
+> `$router->get('/User/$name/','/views/mens') ; `
 
 
