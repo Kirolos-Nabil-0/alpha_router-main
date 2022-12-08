@@ -24,7 +24,6 @@
 <br />
 ### Dynamic GET Routing
 > `$router = new Router`;
-<br />
 > `$router->get('/User/$name/','/views/mens') ; `
 
 
